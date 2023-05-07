@@ -1,1 +1,1 @@
-This is NEXT.js1 13 tutorial with `/pages` [Learn Next.js](https://nextjs.org/learn).
+This is NEXT.js 13 tutorial with `/pages` [Learn Next.js](https://nextjs.org/learn).
